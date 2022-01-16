@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [DeliverooAutomationTask]">
+  <test thread-count="5" name="DeliverooForWorkTests(failed)">
+    <classes>
+      <class name="TestCases.DeliverooForWorkTestCases">
+        <methods>
+          <include name="DliverooFailedContactUs" invocation-numbers="0"/>
+          <include name="afterMethod"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestCases.DeliverooForWorkTestCases -->
+    </classes>
+  </test> <!-- DeliverooForWorkTests(failed) -->
+  <test thread-count="5" name="DeliverooResturantTest(failed)">
+    <classes>
+      <class name="TestCases.DeliverooResturantTestCases">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="setup"/>
+          <include name="CheckResturantDetails"/>
+        </methods>
+      </class> <!-- TestCases.DeliverooResturantTestCases -->
+    </classes>
+  </test> <!-- DeliverooResturantTest(failed) -->
+</suite> <!-- Failed suite [DeliverooAutomationTask] -->

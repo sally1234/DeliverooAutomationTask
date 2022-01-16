@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="resources/Jars/bcel-6.2.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/findbugs-ant.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/testng-6.0.jar/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/testng-6.0.jar/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/selenium-java-3.11.0/Libs/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/selenium-java-3.11.0/Libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/selenium-java-3.11.0/Libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/selenium-java-3.11.0/Libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/selenium-java-3.11.0/Libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/selenium-java-3.11.0/Libs/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/selenium-java-3.11.0/Libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/selenium-java-3.11.0/Libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/selenium-java-3.11.0/Libs/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/selenium-java-3.11.0/Libs/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/selenium-java-3.11.0/client-combined-3.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/selenium-java-3.11.0/client-combined-3.11.0.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/poi-ooxml-3.5-beta5.jar/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/poi-ooxml-3.5-beta5.jar/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/poi-ooxml-3.5-beta5.jar/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/poi-ooxml-3.5-beta5.jar/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/poi-ooxml-3.5-beta5.jar/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/poi-ooxml-3.5-beta5.jar/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/poi-ooxml-3.5-beta5.jar/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="resources/Jars/poi-ooxml-3.5-beta5.jar/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
