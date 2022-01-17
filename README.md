@@ -16,7 +16,7 @@ To execute from console:
 2. write the following :
 2.1 make the root the project directory in your PC
 2.2 cd for the resources folder
-2.3 write the following command java -cp .\Jars\testng-6.0.jar\*;.\Jars\testng-6.0.jar org.testng.TestNG Testng.xml
+2.3 write the following command java -cp .\resources\Jars\testng-6.0.jar\*;.\bin\ org.testng.TestNG testng.xml
 
 
 
